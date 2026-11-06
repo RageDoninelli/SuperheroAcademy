@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-labelledby="title desc">
+<title id="title">Nuri, la ardilla superheroína</title><desc id="desc">Ardilla caricaturesca con gorra azul, capa coral y escudo de estrella.</desc>
+<defs>
+ <linearGradient id="tail" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9b95e"/><stop offset="1" stop-color="#d67736"/></linearGradient>
+ <linearGradient id="fur" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffd49a"/><stop offset=".9" stop-color="#e99449"/></linearGradient>
+ <linearGradient id="cape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff617d"/><stop offset="1" stop-color="#e73760"/></linearGradient>
+ <filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#132e58" flood-opacity=".18"/></filter>
+</defs>
+<g filter="url(#s)">
+ <ellipse cx="206" cy="416" rx="123" ry="12" fill="#17315b" opacity=".14"/>
+ <path d="M289 304 C389 341 412 233 357 199 C313 173 292 219 320 242 C334 257 351 243 341 235 C396 249 364 320 281 282Z" fill="url(#tail)" stroke="#8e4c30" stroke-width="8" stroke-linejoin="round"/>
+ <path d="M353 213 C383 255 372 291 332 300 C350 279 349 253 330 242Z" fill="#ffe3a4" opacity=".9"/>
+ <path d="M139 255 L85 354 Q145 374 176 332 L203 296Z" fill="url(#cape)" stroke="#b92450" stroke-width="5"/>
+ <path d="M272 254 L319 360 Q254 382 227 337 L207 302Z" fill="url(#cape)" stroke="#b92450" stroke-width="5"/>
+ <path d="M168 298 Q209 281 256 300 L259 370 Q210 408 157 370Z" fill="#4e9ae7" stroke="#225aa6" stroke-width="7"/>
+ <ellipse cx="209" cy="342" rx="42" ry="40" fill="#e9f8ff"/>
+ <path d="m209 308 10 20 23 3-17 16 4 22-20-11-20 11 4-22-17-16 23-3Z" fill="#ffca42" stroke="#ec9a20" stroke-width="3"/>
+ <path d="M154 309 Q120 299 113 322 Q109 350 142 349" fill="none" stroke="#cd7a41" stroke-width="21" stroke-linecap="round"/>
+ <path d="M258 308 Q296 298 300 326 Q302 354 272 351" fill="none" stroke="#cd7a41" stroke-width="21" stroke-linecap="round"/>
+ <ellipse cx="172" cy="380" rx="24" ry="16" fill="#ad5e3c"/><ellipse cx="249" cy="380" rx="24" ry="16" fill="#ad5e3c"/>
+ <path d="M128 120 Q100 70 124 52 Q153 38 176 101Z" fill="#b56c3a" stroke="#8e4c30" stroke-width="7"/>
+ <path d="M148 97 Q123 70 132 68 Q146 61 158 101Z" fill="#ffafae"/>
+ <path d="M267 120 Q284 65 309 67 Q336 84 286 149Z" fill="#b56c3a" stroke="#8e4c30" stroke-width="7"/>
+ <path d="M279 104 Q310 71 312 90 Q306 110 286 121Z" fill="#ffafae"/>
+ <path d="M128 129 Q130 95 200 92 Q284 88 297 158 Q319 232 277 278 Q217 328 149 278 Q105 245 128 129Z" fill="url(#fur)" stroke="#95532f" stroke-width="8"/>
+ <ellipse cx="207" cy="228" rx="87" ry="70" fill="#fff0d1" opacity=".98"/>
+ <ellipse cx="171" cy="192" rx="14" ry="22" fill="#2d2d45"/><ellipse cx="249" cy="192" rx="14" ry="22" fill="#2d2d45"/>
+ <circle cx="176" cy="185" r="5" fill="white"/><circle cx="254" cy="185" r="5" fill="white"/>
+ <ellipse cx="148" cy="231" rx="18" ry="12" fill="#f48b92" opacity=".82"/><ellipse cx="271" cy="231" rx="18" ry="12" fill="#f48b92" opacity=".82"/>
+ <path d="M193 216 Q209 205 225 216 Q224 230 209 234 Q194 230 193 216Z" fill="#774633"/>
+ <path d="M209 235 Q201 253 186 248 M209 235 Q218 254 233 247" fill="none" stroke="#774633" stroke-width="5" stroke-linecap="round"/>
+ <path d="M129 146 Q135 101 202 99 Q275 98 288 147 Q216 164 129 146Z" fill="#2770d6" stroke="#16489f" stroke-width="7"/>
+ <path d="M121 150 Q205 128 297 147 Q308 156 301 165 Q223 184 120 165 Q112 158 121 150Z" fill="#3b94f5" stroke="#16489f" stroke-width="6"/>
+ <path d="m210 110 5 10 11 2-8 8 2 11-10-5-10 5 2-11-8-8 11-2Z" fill="#ffe45f"/>
+</g>
+</svg>

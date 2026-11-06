@@ -1,0 +1,37 @@
+V.I.V.A. SUPERHERO ACADEMY – Kids English
+==========================================
+
+PROPÓSITO
+Cinco misiones comunicativas (50 minutos) alrededor del video oficial
+"Something Just Like This" de The Chainsmokers y Coldplay.
+
+1. HERO RADAR (8 min): He/She can..., hero favorites.
+2. MUSIC QUEST (10 min): ver video; I can see..., I like...
+3. POWER LAB (10 min): I can..., Can you...?, Yes/No, I can/can't.
+4. REAL HEROES (12 min): I can help..., kindness.
+5. SUPER ME! (10 min): presentación y certificado PNG.
+
+SUBIR A GITHUB PAGES DESDE EL CELULAR
+1. Crea un repositorio nuevo en GitHub (por ejemplo: VivaSuperheroes).
+2. Descomprime este ZIP en el teléfono.
+3. En GitHub abre el repositorio, Add file > Upload files.
+4. Selecciona TODOS los archivos directamente, sin crear carpetas.
+5. Confirma con "Commit changes".
+6. En Settings > Pages > Branch: main / (root) > Save.
+7. Entra a https://TUUSUARIO.github.io/VivaSuperheroes/
+8. Pulsa "Instalar app" o utiliza el menú de Chrome > "Instalar app".
+
+IMPORTANTE
+- El video es de YouTube y requiere Internet. La app y las tareas pueden
+  seguir funcionando sin conexión una vez guardados sus recursos en el dispositivo.
+- No se copia ni distribuye música ni letra de la canción.
+- La participación oral la escucha el docente; los botones de completar NO
+  califican pronunciación automáticamente.
+- La ardilla incluida es una ilustración original provisional de Nuri.
+- Si tienes el Nuri y el logo oficiales, entra a "Teacher corner" y selecciona
+  ambas imágenes. Quedan guardadas solo en ese navegador, no en la web.
+- El progreso también se guarda solo en el navegador local.
+
+ARCHIVOS EN RAÍZ
+index.html, nuri.svg, icon-192.png, icon-512.png,
+manifest.webmanifest, sw.js, LEEME.txt.
